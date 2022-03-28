@@ -1,0 +1,3 @@
+git remote add origin https://github.com/denn987/axes.git
+ git branch -M main 
+git push -u origin main
